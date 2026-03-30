@@ -1,0 +1,7 @@
+{
+  "include": ["src", "tests", "integration_tests"],
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false
+}
